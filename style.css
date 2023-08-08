@@ -1,0 +1,87 @@
+.testimonials {
+  text-align: centers;
+}
+
+.testimonials .headings {
+  text-align: center;
+}
+.testimonials .headings .heading {
+  font-size: 10px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.testimonials .headings .headingOne {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.testimonials .headings .headingTwo {
+  font-size: 10px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.testimonials .headings .description {
+  font-size: 10px;
+}
+
+
+.person_details {
+  display: -webkit-box;
+  margin-top: 10px;
+}
+
+.person_pic {
+  width: 40px;
+  height: 40px;
+}
+
+.person_img {
+  width: 40px;
+  height: 40px;
+}
+
+.person_name_role {
+  font-size: 12px;
+  margin-left: 12px;
+}
+
+.person_name {
+  font-weight: bold;
+}
+
+.person_role {
+  color: #ccc;
+}
+
+.rating {
+  margin-top: 10px;
+}
+
+.rating .fa {
+  color: #b9b9b9;
+}
+
+.carousel-control {
+  float: right;
+  position: relative;
+  margin-top: -40px;
+}
+
+.carousel-control .carousel-left,
+.carousel-control .carousel-right {
+  display: inline;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+}
+
+.carousel-control .fa {
+  
+}
+
+.carousel-control .fa-chevron-left,
+.carousel-control .fa-chevron-right {
+  
+}
